@@ -1,0 +1,30 @@
+.navbar{
+    background-color: rgb(109, 75, 46);
+    
+}
+.navclass{
+position: relative;
+left: 30%;
+}
+.font{
+    color:black;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.nav-link{
+    color: rgb(146, 142, 142);
+}
+
+.navbar-brand{
+    color: rgb(146, 142, 142);
+}
+.btn{
+    color:rgb(146, 142, 142);
+    
+}
+.btn:hover{
+    background-color: rgb(146, 142, 142);
+
+}
